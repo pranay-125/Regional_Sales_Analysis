@@ -1,12 +1,12 @@
 # Regional_Sales_Analysis
 
-📌 Executive Summary
+**📌 Executive Summary**
 
 This project delivers an end-to-end regional sales analytics solution built on five years of U.S. sales data. By integrating exploratory data analysis (EDA), advanced feature engineering, and an interactive Power BI dashboard, it uncovers key drivers of revenue and profitability across products, customers, channels, and geographies.
 
 The analysis bridges the gap between raw data and business strategy—highlighting seasonality, customer segmentation, and channel trade-offs—and provides actionable recommendations to support data-driven decision-making at the leadership level.
 
-🎯 Business Problem
+**🎯 Business Problem**
 
 Sales teams lacked a clear, data-driven understanding of regional performance, leading to:
 
@@ -18,7 +18,7 @@ Difficulty in prioritizing growth levers and aligning resources
 
 Objective: Develop a scalable analytical framework and dashboard that surfaces insights on sales performance, margin dynamics, and regional opportunities.
 
-📂 Repository Contents
+**📂 Repository Contents**
 ├── EDA_Regional_Sales_Analysis.ipynb    # Python-based Exploratory Data Analysis
 ├── Sales_data(EDA Exported).csv         # Cleaned dataset (EDA-ready)
 ├── Regional Sales Dataset.xlsx          # Raw dataset (multi-table format)
@@ -26,7 +26,7 @@ Objective: Develop a scalable analytical framework and dashboard that surfaces i
 ├── PPT --- Regional Sales Analysis.pptx # Executive presentation deck
 ├── README.md                            # Project documentation
 
-🗂 Data Engineering & Preparation
+**🗂 Data Engineering & Preparation**
 
 The raw dataset consisted of unlinked sales, customer, product, region, and budget tables.
 Key steps applied:
@@ -41,8 +41,8 @@ Validation: Ensured no missing values or duplicates
 
 Final Dataset: 20+ attributes spanning financials, customers, regions, and planning
 
-🔍 Analytical Approach
-Exploratory Data Analysis (Python – Jupyter Notebook)
+**🔍 Analytical Approach
+Exploratory Data Analysis (Python – Jupyter Notebook)**
 
 Trend Analysis: Seasonal patterns, outliers, annual cycles
 
@@ -64,7 +64,7 @@ Customer Segmentation View: Revenue distribution vs. profitability
 
 Revenue Scenarios: Channel and product contribution simulations
 
-📊 Key Findings
+**📊 Key Findings**
 
 Seasonality: Revenue peaks in May–June; January is the weakest month.
 
@@ -76,7 +76,7 @@ Geographic Distribution: California contributes $230M; Northeast underperforms.
 
 Customer Segmentation: Large accounts often receive discounts, lowering margins.
 
-📝 Strategic Recommendations
+**📝 Strategic Recommendations**
 
 Revenue Stability: Introduce April recovery campaigns and amplify January promotions.
 
@@ -88,7 +88,7 @@ Regional Focus: Replicate California’s model in Midwest & Northeast to balance
 
 Margin Management: Implement monitoring for sub-80% margin orders to control cost leakage.
 
-🛠 Tools & Technologies
+**🛠 Tools & Technologies**
 
 Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly) – Data cleaning, EDA & statistical insights
 
@@ -98,7 +98,7 @@ Power BI – Interactive, self-service dashboard for stakeholders
 
 Excel/CSV – Data integration and validation
 
-📌 Impact
+**📌 Impact**
 
 This project demonstrates my ability to:
 
@@ -110,7 +110,7 @@ Deliver executive-grade recommendations that support sales growth, margin improv
 
 Build scalable analytics solutions that can onboard new datasets seamlessly
 
-🚀 Next Steps
+**🚀 Next Steps**
 
 Extend analysis to include predictive modeling for sales forecasting
 
